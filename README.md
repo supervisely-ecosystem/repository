@@ -12,7 +12,11 @@ Those github repositories will be automatically scanned for new updates and show
 ## Sample Applications:
 
 - https://github.com/supervisely-ecosystem/test_app
+
+## Applications for debug and development
+
 - https://github.com/supervisely-ecosystem/hello-world-app
+- https://github.com/supervisely-ecosystem/debug-progress-error-app
 
 ## System Applications (internal usage):
 
