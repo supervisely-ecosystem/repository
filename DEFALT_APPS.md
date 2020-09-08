@@ -1,0 +1,1 @@
+- https://github.com/supervisely-ecosystem/classes-stats-for-images
