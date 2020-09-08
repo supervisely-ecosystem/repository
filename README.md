@@ -8,7 +8,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Sample Projects:
 
 - https://github.com/supervisely-ecosystem/lemons-annotated
-- https://github.com/supervisely-ecosystem/video-project-example
+- https://github.com/supervisely-ecosystem/videos-example
 
 ## Sample Applications:
 
