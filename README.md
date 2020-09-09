@@ -11,6 +11,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/videos-example
 - https://github.com/supervisely-ecosystem/lemons-test
 - https://github.com/supervisely-ecosystem/roads-annotated
+- https://github.com/supervisely-ecosystem/roads-test
 
 ## Sample Applications:
 
