@@ -15,6 +15,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/country-roads
 - https://github.com/supervisely-ecosystem/country-roads-test
 
+## Work with project classes and tags
+- https://github.com/supervisely-ecosystem/convert-class-shape
+
 ## Sample Applications:
 
 - https://github.com/supervisely-ecosystem/test_app
