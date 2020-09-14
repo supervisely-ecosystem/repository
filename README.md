@@ -14,6 +14,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/roads-test
 - https://github.com/supervisely-ecosystem/country-roads
 - https://github.com/supervisely-ecosystem/country-roads-test
+- https://github.com/supervisely-ecosystem/persons
 
 ## Convert project classes and objects
 
