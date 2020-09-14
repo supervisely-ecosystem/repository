@@ -19,6 +19,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Convert project classes and objects
 
 - https://github.com/supervisely-ecosystem/rasterize-objects-on-images
+- https://github.com/supervisely-ecosystem/unpack-anyshape
 
 ## Sample Applications:
 
