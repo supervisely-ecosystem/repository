@@ -18,6 +18,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/rasterize-objects-on-images
 - https://github.com/supervisely-ecosystem/unpack-anyshape
 - https://github.com/supervisely-ecosystem/convert-class-shape
+- https://github.com/supervisely-ecosystem/merge-classes
 
 ## Statistical Reports for labeled images
 - https://github.com/supervisely-ecosystem/classes-stats-for-images
