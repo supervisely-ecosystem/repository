@@ -22,6 +22,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Statistical Reports for labeled images
 - https://github.com/supervisely-ecosystem/classes-stats-for-images
+- https://github.com/supervisely-ecosystem/object-size-stats
 
 ## Applications for debug and development
 
