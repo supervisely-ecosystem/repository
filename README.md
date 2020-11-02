@@ -21,12 +21,18 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/merge-classes
 
 ## Statistical Reports for labeled images
+
 - https://github.com/supervisely-ecosystem/classes-stats-for-images
 - https://github.com/supervisely-ecosystem/object-size-stats
 - https://github.com/supervisely-ecosystem/labeling-jobs-stats
 
 ## Create Training Data
+
 - https://github.com/supervisely-ecosystem/create-trainset-for-smarttool
+
+## Import
+
+- https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 
 ## Applications for debug and development
 
