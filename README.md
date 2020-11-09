@@ -31,6 +31,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Create Training Data
 
 - https://github.com/supervisely-ecosystem/create-trainset-for-smarttool
+- https://github.com/supervisely-ecosystem/tag-train-val-test
 
 ## Import
 
