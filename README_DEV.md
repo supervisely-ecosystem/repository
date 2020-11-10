@@ -37,6 +37,9 @@ Those github repositories will be automatically scanned for new updates and show
 
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 
+## YOLO v5 collection
+- https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
