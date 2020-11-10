@@ -41,6 +41,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 - https://github.com/supervisely-ecosystem/hello-world-app
 - https://github.com/s-umar/hello-world-app/tree/master/supervisely/train
+- https://github.com/s-umar/hello-world-app/tree/master/supervisely/inf
 - https://github.com/supervisely-ecosystem/debug-progress-error-app
 - https://github.com/supervisely-ecosystem/while-true-app
 
