@@ -37,7 +37,6 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/yolov5-apps-collection/tree/master/supervisely_apps/convert-supervisely-to-yolov5-format
 
 ## Import
-
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 
 ## Applications for debug and development
