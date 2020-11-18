@@ -50,3 +50,6 @@ Those github repositories will be automatically scanned for new updates and show
 ## System Applications (internal usage):
 
 - https://github.com/supervisely-ecosystem/sys-add-images-project-from-ecosystem
+
+## Max
+- https://github.com/supervisely-ecosystem/app-template-headless
