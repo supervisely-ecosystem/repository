@@ -57,3 +57,6 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## User Management
 - https://github.com/supervisely-ecosystem/create-users-from-csv
+
+## Alex
+- https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
