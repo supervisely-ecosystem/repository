@@ -34,7 +34,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/tag-train-val-test
 
 ## YOLO v5 Apps Collection
-- https://github.com/supervisely-ecosystem/yolov5-to-sly-converter
+- https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
