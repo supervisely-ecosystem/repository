@@ -38,6 +38,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 - https://github.com/supervisely-ecosystem/remote-import
 
+## User Management
+- https://github.com/supervisely-ecosystem/create-users-from-csv
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
