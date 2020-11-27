@@ -40,6 +40,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## User Management
 - https://github.com/supervisely-ecosystem/create-users-from-csv
+- https://github.com/supervisely-ecosystem/invite-users-to-team-from-CSV
 
 ## YOLOv5 apps collection
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
