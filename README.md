@@ -41,6 +41,9 @@ Those github repositories will be automatically scanned for new updates and show
 ## User Management
 - https://github.com/supervisely-ecosystem/create-users-from-csv
 
+## YOLOv5 apps collection
+- https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
