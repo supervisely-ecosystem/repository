@@ -44,6 +44,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## YOLOv5 apps collection
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
+- https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 
 ## Applications for debug and development
 
