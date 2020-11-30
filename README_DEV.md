@@ -48,7 +48,6 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/while-true-app
 
 ## System Applications (internal usage):
-
 - https://github.com/supervisely-ecosystem/sys-add-images-project-from-ecosystem
 
 ## Max
@@ -56,6 +55,9 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## User Management
 - https://github.com/supervisely-ecosystem/create-users-from-csv
+
+## Image Tags and metadata
+- https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
 
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
