@@ -46,6 +46,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 
+## Work with tags and metadata
+- https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
