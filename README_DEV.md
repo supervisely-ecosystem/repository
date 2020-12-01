@@ -59,6 +59,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Image Tags and metadata
 - https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
+- https://github.com/supervisely-ecosystem/copy-image-tags-to-objects
 
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
