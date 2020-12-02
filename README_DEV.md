@@ -61,6 +61,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
 - https://github.com/supervisely-ecosystem/copy-image-tags-to-objects
 
+## Retail
+- https://github.com/supervisely-ecosystem/create-json-with-reference-items
+
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/add-users-from-csv-to-team
