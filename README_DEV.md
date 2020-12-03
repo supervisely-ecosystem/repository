@@ -66,6 +66,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Tagging / classification using big catalogs
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
+- https://github.com/supervisely-ecosystem/group-reference-objects-into-batches
 
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
