@@ -39,19 +39,27 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/remote-import
 
 ## User Management
+
 - https://github.com/supervisely-ecosystem/create-users-from-csv
 - https://github.com/supervisely-ecosystem/invite-users-to-team-from-CSV
 
 ## YOLOv5 apps collection
+
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 
 ## Work with tags and metadata
+
 - https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
 - https://github.com/supervisely-ecosystem/copy-image-tags-to-objects
 
 ## Tagging / Classification task with large number of classes (i.e. big catalogs)
+
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
+
+## Videos project
+
+- https://github.com/supervisely-ecosystem/turn-video-project-into-images
 
 ## Applications for debug and development
 
