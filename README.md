@@ -56,6 +56,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Tagging / Classification task with large number of classes (i.e. big catalogs)
 
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
+- https://github.com/supervisely-ecosystem/group-reference-objects-into-batches
 
 ## Videos project
 
