@@ -63,6 +63,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Video
 - https://github.com/supervisely-ecosystem/turn-video-project-into-images
+- https://github.com/supervisely-ecosystem/video-objects-stats-for-every-class
 
 ## Tagging / classification using big catalogs
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
