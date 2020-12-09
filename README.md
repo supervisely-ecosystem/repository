@@ -61,6 +61,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Videos project
 
 - https://github.com/supervisely-ecosystem/turn-video-project-into-images
+- https://github.com/supervisely-ecosystem/video-objects-stats-for-every-class
 
 ## Applications for debug and development
 
