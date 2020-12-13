@@ -37,6 +37,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 - https://github.com/supervisely-ecosystem/remote-import
+- https://github.com/supervisely-ecosystem/copy-project-between-instances
 
 ## User Management
 
