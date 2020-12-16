@@ -79,3 +79,6 @@ Those github repositories will be automatically scanned for new updates and show
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/add-users-from-csv-to-team
+
+## Tests
+- https://github.com/supervisely-ecosystem/log-level-test
