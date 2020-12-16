@@ -66,6 +66,10 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/video-objects-stats-for-every-class
 - https://github.com/supervisely-ecosystem/render-video-labels-to-mp4
 
+## Collection to Merge Projects
+
+- https://github.com/supervisely-ecosystem/diff-merge-project-meta
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
