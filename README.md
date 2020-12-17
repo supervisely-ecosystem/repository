@@ -69,6 +69,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Collection to Merge Projects
 
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
+- https://github.com/supervisely-ecosystem/diff-merge-images-projects
 
 ## Applications for debug and development
 
