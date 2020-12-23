@@ -78,6 +78,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/debug-progress-error-app
 - https://github.com/supervisely-ecosystem/while-true-app
 - https://github.com/supervisely-ecosystem/app-template-headless
+- https://github.com/supervisely-ecosystem/while-true-script
 
 ## System Applications (internal usage):
 
