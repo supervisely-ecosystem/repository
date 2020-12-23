@@ -58,6 +58,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Max
 - https://github.com/supervisely-ecosystem/app-template-headless
 - https://github.com/supervisely-ecosystem/copy-image-tags-to-objects
+- https://github.com/supervisely-ecosystem/mark-reference-objects-for-retail
 
 ## User Management
 - https://github.com/supervisely-ecosystem/create-users-from-csv
