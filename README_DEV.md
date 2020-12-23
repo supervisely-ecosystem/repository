@@ -50,6 +50,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/s-umar/hello-world-app/tree/master/supervisely/inf
 - https://github.com/supervisely-ecosystem/debug-progress-error-app
 - https://github.com/supervisely-ecosystem/while-true-app
+- https://github.com/supervisely-ecosystem/while-true-script
 
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-images-project-from-ecosystem
