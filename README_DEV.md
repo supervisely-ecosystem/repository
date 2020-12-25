@@ -43,6 +43,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/remote-import
 - https://github.com/supervisely-ecosystem/copy-project-between-instances
 - https://github.com/supervisely-ecosystem/import-videos-by-urls-from-txt
+- https://github.com/supervisely-ecosystem/import-movie-genre-from-its-poster
 
 ## Applications for debug and development
 
