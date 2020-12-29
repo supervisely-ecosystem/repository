@@ -28,6 +28,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/labeler-first-time-through
 - https://github.com/supervisely-ecosystem/labeling-events-stats
 - https://github.com/supervisely-ecosystem/classes-co-occurrence-matrix
+- https://github.com/supervisely-ecosystem/tags-co-occurrence-matrix
 
 ## Create Training Data
 
