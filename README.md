@@ -41,6 +41,10 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/copy-project-between-instances
 - https://github.com/supervisely-ecosystem/import-videos-by-urls-from-txt
 
+## Import public datasets
+
+- https://github.com/supervisely-ecosystem/import-movie-genre-from-its-poster
+
 ## User Management
 
 - https://github.com/supervisely-ecosystem/create-users-from-csv
