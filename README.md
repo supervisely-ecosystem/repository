@@ -61,10 +61,12 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
 - https://github.com/supervisely-ecosystem/copy-image-tags-to-objects
 
-## Tagging / Classification task with large number of classes (i.e. big catalogs)
+## Tagging / Classification / Retail 
+tasks with large number of classes (i.e. big catalogs)
 
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
 - https://github.com/supervisely-ecosystem/group-reference-objects-into-batches
+- https://github.com/supervisely-ecosystem/mark-reference-objects-for-retail
 
 ## Videos project
 
