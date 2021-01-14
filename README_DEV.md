@@ -38,6 +38,9 @@ Those github repositories will be automatically scanned for new updates and show
 ## YOLO v5 Apps Collection
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 
+## Cityscapes format
+- https://github.com/supervisely-ecosystem/convert-supervisely-to-cityscapes-format
+
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 - https://github.com/supervisely-ecosystem/remote-import
