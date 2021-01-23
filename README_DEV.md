@@ -37,6 +37,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## YOLO v5 Apps Collection
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
+- https://github.com/supervisely-ecosystem/yolov5/tree/master/supervisely/train
 
 ## Cityscapes format
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-cityscapes-format
@@ -96,5 +97,3 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/log-level-test
 - https://github.com/supervisely-ecosystem/app-response-test
 
-## YOLOv5
-- https://github.com/supervisely-ecosystem/yolov5/tree/supervisely/supervisely/train
