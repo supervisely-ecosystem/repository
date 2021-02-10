@@ -95,6 +95,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/add-users-from-csv-to-team
 
+## NN integrations
+- https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
+
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
 - https://github.com/supervisely-ecosystem/app-response-test
