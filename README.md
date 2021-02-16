@@ -68,6 +68,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/group-reference-objects-into-batches
 - https://github.com/supervisely-ecosystem/mark-reference-objects-for-retail
 - https://github.com/supervisely-ecosystem/retail-tagging
+- https://github.com/supervisely-ecosystem/review-retail-tags
 
 ## Videos project
 
