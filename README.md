@@ -83,6 +83,11 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
 - https://github.com/supervisely-ecosystem/diff-merge-images-projects
 
+## NN inference integration
+
+- https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
+- https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
