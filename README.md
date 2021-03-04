@@ -90,6 +90,9 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
 
+## Alpha channel
+- https://github.com/supervisely-ecosystem/images-with-alpha-channel
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
