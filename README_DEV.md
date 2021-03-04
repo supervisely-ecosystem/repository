@@ -13,6 +13,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/country-roads-test
 - https://github.com/supervisely-ecosystem/persons
 - https://github.com/supervisely-ecosystem/demo-images
+- https://github.com/supervisely-ecosystem/images-with-alpha-channel
 
 ## Convert project classes and objects
 
