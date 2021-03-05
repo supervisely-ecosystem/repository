@@ -92,6 +92,7 @@ tasks with large number of classes (i.e. big catalogs)
 
 ## Alpha channel
 - https://github.com/supervisely-ecosystem/images-with-alpha-channel
+- https://github.com/supervisely-ecosystem/create-foreground-mask
 
 ## Applications for debug and development
 
