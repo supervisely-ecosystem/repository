@@ -14,6 +14,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/persons
 - https://github.com/supervisely-ecosystem/demo-images
 - https://github.com/supervisely-ecosystem/top-10-cat-breeds
+- https://github.com/supervisely-ecosystem/cats-quiz
 
 ## Convert project classes and objects
 
