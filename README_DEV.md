@@ -98,6 +98,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/group-reference-objects-into-batches
 - https://github.com/supervisely-ecosystem/retail-tagging
 - https://github.com/supervisely-ecosystem/review-retail-tags
+- https://github.com/supervisely-ecosystem/visual-tagging
 
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
