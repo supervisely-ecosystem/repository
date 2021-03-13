@@ -101,6 +101,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/review-retail-tags
 - https://github.com/supervisely-ecosystem/visual-tagging
 
+## Synthetic data
+- https://github.com/supervisely-ecosystem/flying-objects
+
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/add-users-from-csv-to-team
