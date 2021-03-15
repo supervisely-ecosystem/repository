@@ -95,8 +95,12 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
 
 ## Alpha channel
+
 - https://github.com/supervisely-ecosystem/images-with-alpha-channel
 - https://github.com/supervisely-ecosystem/create-foreground-mask
+
+## Synthetic data generation
+- https://github.com/supervisely-ecosystem/flying-objects
 
 ## Applications for debug and development
 
