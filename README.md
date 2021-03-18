@@ -55,7 +55,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/create-users-from-csv
 - https://github.com/supervisely-ecosystem/invite-users-to-team-from-CSV
 
-## YOLOv5 apps collection
+## YOLOv5
 
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
@@ -101,6 +101,9 @@ tasks with large number of classes (i.e. big catalogs)
 
 ## Synthetic data generation
 - https://github.com/supervisely-ecosystem/flying-objects
+
+## Apps Collections
+- https://github.com/supervisely-ecosystem/yolov5
 
 ## Applications for debug and development
 
