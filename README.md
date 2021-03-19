@@ -26,6 +26,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Transform images
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
+- https://github.com/supervisely-ecosystem/sliding-window/tree/master/merge
 
 ## Statistical Reports for labeled images
 
