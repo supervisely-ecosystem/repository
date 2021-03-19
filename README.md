@@ -24,6 +24,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-class-shape
 - https://github.com/supervisely-ecosystem/merge-classes
 
+## Transform images
+- https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
+
 ## Statistical Reports for labeled images
 
 - https://github.com/supervisely-ecosystem/classes-stats-for-images
