@@ -17,6 +17,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/cats-quiz
 - https://github.com/supervisely-ecosystem/seeds
 - https://github.com/supervisely-ecosystem/snacks-catalog
+- https://github.com/supervisely-ecosystem/snacks-example
 
 ## alpha channel
 - https://github.com/supervisely-ecosystem/images-with-alpha-channel
