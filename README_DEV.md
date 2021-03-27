@@ -132,4 +132,5 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Kate
 - https://github.com/Kate-cat57/Divide_dataset
+- https://github.com/Kate-cat57/Drop_shadow
 
