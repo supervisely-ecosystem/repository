@@ -56,6 +56,9 @@ Those github repositories will be automatically scanned for new updates and show
 ## Cityscapes format
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-cityscapes-format
 
+## Pascal VOC format
+- https://github.com/supervisely-ecosystem/export-to-pascal-voc
+
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 - https://github.com/supervisely-ecosystem/remote-import
