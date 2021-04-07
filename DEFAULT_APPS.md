@@ -28,6 +28,3 @@
 - https://github.com/supervisely-ecosystem/video-objects-stats-for-every-class
 - https://github.com/supervisely-ecosystem/render-video-labels-to-mp4
 
-## Tests
-
-- https://github.com/s-umar/umar-hello-world-app
