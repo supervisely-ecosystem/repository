@@ -27,3 +27,7 @@
 - https://github.com/supervisely-ecosystem/turn-video-project-into-images
 - https://github.com/supervisely-ecosystem/video-objects-stats-for-every-class
 - https://github.com/supervisely-ecosystem/render-video-labels-to-mp4
+
+## Tests
+
+- https://github.com/s-umar/classes-stats-for-images
