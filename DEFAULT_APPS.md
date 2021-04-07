@@ -30,4 +30,4 @@
 
 ## Tests
 
-- https://github.com/s-umar/classes-stats-for-images
+- https://github.com/s-umar/umar-classes-stats-for-images
