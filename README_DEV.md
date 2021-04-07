@@ -126,7 +126,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
 - https://github.com/supervisely-ecosystem/app-response-test
-- https://github.com/s-umar/classes-stats-for-images
+- https://github.com/s-umar/umar-hello-world-app
 
 ## Transform
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
