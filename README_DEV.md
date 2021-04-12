@@ -53,9 +53,6 @@ Those github repositories will be automatically scanned for new updates and show
 ## OpenMMLab
 - https://github.com/supervisely-ecosystem/mmclassification
 
-## Cityscapes format
-- https://github.com/supervisely-ecosystem/convert-supervisely-to-cityscapes-format
-
 ## Pascal VOC format
 - https://github.com/supervisely-ecosystem/export-to-pascal-voc
 
