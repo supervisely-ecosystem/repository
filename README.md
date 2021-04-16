@@ -26,6 +26,11 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-class-shape
 - https://github.com/supervisely-ecosystem/merge-classes
 
+## Export 
+- https://github.com/supervisely-ecosystem/export-to-cityscapes
+- https://github.com/supervisely-ecosystem/export-to-pascal-voc
+- https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
+
 ## Transform images
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/merge
@@ -52,10 +57,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/remote-import
 - https://github.com/supervisely-ecosystem/copy-project-between-instances
 - https://github.com/supervisely-ecosystem/import-videos-by-urls-from-txt
-
-## Import public datasets
-
 - https://github.com/supervisely-ecosystem/import-movie-genre-from-its-poster
+- https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 
 ## User Management
 
@@ -64,8 +67,6 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## YOLOv5
 
-- https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
-- https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 - https://github.com/supervisely-ecosystem/yolov5/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/yolov5/tree/master/supervisely/serve
 
