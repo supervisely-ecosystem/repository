@@ -61,7 +61,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-movie-genre-from-its-poster
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 - https://github.com/supervisely-ecosystem/import-metadata
-
+- https://github.com/supervisely-ecosystem/import-videos-from-cloud-storage
+ 
 ## User Management
 
 - https://github.com/supervisely-ecosystem/create-users-from-csv
