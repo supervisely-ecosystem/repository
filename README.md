@@ -33,8 +33,10 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-metadata
 
 ## Transform images
+
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/merge
+- https://github.com/supervisely-ecosystem/resize-images
 
 ## Statistical Reports for labeled images
 
