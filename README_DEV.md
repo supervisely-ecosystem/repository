@@ -142,3 +142,5 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/Kate-cat57/Divide_dataset
 - https://github.com/Kate-cat57/Drop_shadow
 
+## Data Management
+- https://github.com/supervisely-ecosystem/merge-project-datasets
