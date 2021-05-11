@@ -26,6 +26,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-class-shape
 - https://github.com/supervisely-ecosystem/merge-classes
 
+## Data Management
+- https://github.com/supervisely-ecosystem/merge-datasets
+
 ## Export 
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
 - https://github.com/supervisely-ecosystem/export-to-pascal-voc
