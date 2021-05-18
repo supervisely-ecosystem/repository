@@ -65,6 +65,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-movie-genre-from-its-poster
 - https://github.com/supervisely-ecosystem/import-videos-from-cloud-storage
 
+## Export
+- https://github.com/supervisely-ecosystem/export-as-masks
+
 ## Applications for debug and development
 
 - https://github.com/supervisely-ecosystem/hello-world-app
