@@ -35,6 +35,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/export-metadata
 - https://github.com/supervisely-ecosystem/export-as-masks
+- https://github.com/supervisely-ecosystem/export-only-labeled-items
 
 ## Transform images
 
