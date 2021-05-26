@@ -118,7 +118,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/invite-users-to-team-from-csv
-- https://github.com/supervisely-ecosystem/import-to-mot-format
+- https://github.com/supervisely-ecosystem/import-mot-format
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
 - https://github.com/supervisely-ecosystem/export-to-mot-format
 - https://github.com/supervisely-ecosystem/import-cityscapes
