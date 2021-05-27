@@ -67,7 +67,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
-- https://github.com/supervisely-ecosystem/download_as_supervisely
+- https://github.com/supervisely-ecosystem/export-to-supervisely-format
 
 ## Applications for debug and development
 
