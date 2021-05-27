@@ -132,8 +132,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/log-level-test
 - https://github.com/supervisely-ecosystem/app-response-test
 - https://github.com/s-umar/umar-hello-world-app
-- https://github.com/supervisely-ecosystem/hello-world-debug-2
-- https://github.com/supervisely-ecosystem/hello-world-debug-2/tree/master/submodule
+- https://github.com/supervisely-ecosystem/hello-world-debug-3
+- https://github.com/supervisely-ecosystem/hello-world-debug-3/tree/master/submodule
 
 ## Transform
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
