@@ -123,6 +123,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-MOT
 - https://github.com/supervisely-ecosystem/import-cityscapes
 - https://github.com/supervisely-ecosystem/export-only-labeled-items
+- https://github.com/supervisely-ecosystem/download-activity-csv
 
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
