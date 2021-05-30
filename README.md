@@ -75,6 +75,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 - https://github.com/supervisely-ecosystem/create-users-from-csv
 - https://github.com/supervisely-ecosystem/invite-users-to-team-from-CSV
+- https://github.com/supervisely-ecosystem/download-activity-csv
 
 ## YOLOv5
 
