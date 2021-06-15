@@ -159,3 +159,6 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/unpack-key-value-tags
+
+## NN
+- https://github.com/supervisely-ecosystem/mmclassification
