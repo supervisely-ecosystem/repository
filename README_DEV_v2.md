@@ -134,6 +134,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-davis-format
 - https://github.com/supervisely-ecosystem/tags-to-image-urls
 - https://github.com/supervisely-ecosystem/video-stats
+- https://github.com/supervisely-ecosystem/images-tags-stat
 
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
