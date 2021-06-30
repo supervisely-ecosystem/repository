@@ -118,6 +118,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Synthetic data
 - https://github.com/supervisely-ecosystem/flying-objects
 - https://github.com/supervisely-ecosystem/synthetic-retail-products
+- https://github.com/supervisely-ecosystem/synthetic-videos-for-tracking
 
 ## Alex
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
