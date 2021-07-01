@@ -169,4 +169,4 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
 
 ## Ilastik
-- https://github.com/supervisely-ecosystem/ilastik-demo
+- https://github.com/supervisely-ecosystem/ilastik-pixel-classification
