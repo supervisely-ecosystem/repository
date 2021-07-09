@@ -141,6 +141,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
+- https://github.com/supervisely-ecosystem/ai-assisted-classification
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
