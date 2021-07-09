@@ -54,6 +54,8 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## OpenMMLab
 - https://github.com/supervisely-ecosystem/mmclassification
+- https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
+- https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/serve
 
 ## Pascal VOC format
 - https://github.com/supervisely-ecosystem/export-to-pascal-voc
@@ -164,9 +166,6 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/unpack-key-value-tags
-
-## NN
-- https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
 
 ## Ilastik
 - https://github.com/supervisely-ecosystem/ilastik-pixel-classification
