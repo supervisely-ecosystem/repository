@@ -98,6 +98,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/copy-image-tags-to-objects
 - https://github.com/supervisely-ecosystem/export-metadata
 - https://github.com/supervisely-ecosystem/import-metadata
+- https://github.com/supervisely-ecosystem/review-labels-side-by-side
 
 ## Diff Merge
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
