@@ -19,12 +19,13 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/snacks-catalog
 - https://github.com/supervisely-ecosystem/grocery-store-shelves
 
-## Convert project classes and objects
+## Convert project classes / objects / tags
 
 - https://github.com/supervisely-ecosystem/rasterize-objects-on-images
 - https://github.com/supervisely-ecosystem/unpack-anyshape
 - https://github.com/supervisely-ecosystem/convert-class-shape
 - https://github.com/supervisely-ecosystem/merge-classes
+- https://github.com/supervisely-ecosystem/unpack-key-value-tags
 
 ## Data Management
 - https://github.com/supervisely-ecosystem/merge-datasets
@@ -38,6 +39,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-only-labeled-items
 - https://github.com/supervisely-ecosystem/export-to-supervisely-format
 - https://github.com/supervisely-ecosystem/export-activity-as-csv
+- https://github.com/supervisely-ecosystem/tags-to-image-urls
 
 ## Transform images
 
