@@ -76,6 +76,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-cityscapes
 - https://github.com/supervisely-ecosystem/import-las-format
 - https://github.com/supervisely-ecosystem/import-images-from-cloud-storage
+- https://github.com/supervisely-ecosystem/import-pascal-voc
  
 ## User Management
 
