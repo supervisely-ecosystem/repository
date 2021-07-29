@@ -144,6 +144,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/video-stats
 - https://github.com/supervisely-ecosystem/images-tags-stat
 - https://github.com/supervisely-ecosystem/convert-video-class-shape
+- https://github.com/supervisely-ecosystem/render-present-video-from-dataset
 
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
