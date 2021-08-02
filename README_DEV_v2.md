@@ -60,6 +60,11 @@ Those github repositories will be automatically scanned for new updates and show
 ## Pascal VOC format
 - https://github.com/supervisely-ecosystem/export-to-pascal-voc
 
+## Pointcloud 3D Detection
+- https://github.com/supervisely-ecosystem/Open3D-ML/tree/sly/supervisely/train
+- https://github.com/supervisely-ecosystem/Open3D-ML/tree/sly/supervisely/serve
+- https://github.com/supervisely-ecosystem/apply-det3d-to-project-dataset
+
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
 - https://github.com/supervisely-ecosystem/remote-import
