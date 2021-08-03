@@ -134,6 +134,7 @@ tasks with large number of classes (i.e. big catalogs)
 ## Synthetic data generation
 - https://github.com/supervisely-ecosystem/flying-objects
 - https://github.com/supervisely-ecosystem/synthetic-retail-products
+- https://github.com/supervisely-ecosystem/synthetic-videos-for-tracking
 
 ## Apps Collections
 - https://github.com/supervisely-ecosystem/yolov5
