@@ -56,6 +56,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/mmclassification
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/serve
+- https://github.com/supervisely-ecosystem/mmsegmentation
+- https://github.com/supervisely-ecosystem/mmsegmentation/tree/dev/supervisely/train
 - https://github.com/supervisely-ecosystem/mmsegmentation/tree/dev/supervisely/serve
 
 ## Pascal VOC format
