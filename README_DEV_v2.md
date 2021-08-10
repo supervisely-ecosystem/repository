@@ -190,3 +190,6 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 
 ## Ilastik
 - https://github.com/supervisely-ecosystem/ilastik-pixel-classification
+
+## Semantic segmentation
+- https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
