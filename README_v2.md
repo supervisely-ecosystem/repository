@@ -139,6 +139,7 @@ tasks with large number of classes (i.e. big catalogs)
 ## Apps Collections
 - https://github.com/supervisely-ecosystem/yolov5
 - https://github.com/supervisely-ecosystem/mmclassification
+- https://github.com/supervisely-ecosystem/unet
 
 ## Applications for debug and development
 
