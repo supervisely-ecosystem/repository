@@ -196,4 +196,4 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
 
 ## FairMOT collection
-- https://github.com/supervisely-ecosystem/FairMOT/tree/develop/supervisely/train
+- https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
