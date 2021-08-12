@@ -194,3 +194,6 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
+
+## FairMOT collection
+- https://github.com/supervisely-ecosystem/FairMOT/tree/develop/supervisely/train
