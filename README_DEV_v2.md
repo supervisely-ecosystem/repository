@@ -161,6 +161,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
 - https://github.com/supervisely-ecosystem/ai-assisted-classification
+- https://github.com/supervisely-ecosystem/apply-nn-to-video-project/
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
