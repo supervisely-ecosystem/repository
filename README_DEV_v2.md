@@ -180,6 +180,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 ## Collections
 - https://github.com/supervisely-ecosystem/yolov5
 - https://github.com/supervisely-ecosystem/mmclassification
+- https://github.com/supervisely-ecosystem/collection-tracking
 
 ## Kate
 - https://github.com/Kate-cat57/Divide_dataset
@@ -198,10 +199,12 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
 
-## FairMOT collection
+## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/serve
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/visualize
 
 ## Test Tracker 
 - https://github.com/supervisely-ecosystem/serve-open-cv-tracker
+
+
