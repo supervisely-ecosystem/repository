@@ -87,6 +87,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-supervisely-format
 - https://github.com/supervisely-ecosystem/export-to-mot-format
 - https://github.com/supervisely-ecosystem/export-to-kitti-3d
+- https://github.com/supervisely-ecosystem/export-to-coco
 
 ## Applications for debug and development
 
