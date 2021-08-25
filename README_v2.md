@@ -41,6 +41,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-supervisely-format
 - https://github.com/supervisely-ecosystem/export-activity-as-csv
 - https://github.com/supervisely-ecosystem/tags-to-image-urls
+- https://github.com/supervisely-ecosystem/export-to-coco
 
 ## Transform images
 
