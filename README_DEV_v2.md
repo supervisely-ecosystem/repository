@@ -81,6 +81,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-las-format
 - https://github.com/supervisely-ecosystem/import-pascal-voc
 - https://github.com/supervisely-ecosystem/import-kitti-3d
+- https://github.com/supervisely-ecosystem/import-coco
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
