@@ -182,6 +182,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/merge
 - https://github.com/supervisely-ecosystem/resize-images
+- https://github.com/supervisely-ecosystem/images-project-to-videos-project
 
 ## Collections
 - https://github.com/supervisely-ecosystem/yolov5
