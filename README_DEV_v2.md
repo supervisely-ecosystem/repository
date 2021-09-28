@@ -42,6 +42,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/labeling-events-stats
 - https://github.com/supervisely-ecosystem/classes-co-occurrence-matrix
 - https://github.com/supervisely-ecosystem/tags-co-occurrence-matrix
+- https://github.com/supervisely-ecosystem/review_object_detection_metrics/tree/main/supervisely
 
 ## Create Training Data
 
