@@ -216,5 +216,8 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/trans-t/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/serve-open-cv-tracker
 
+## Metric Learning
+
+- https://github.com/supervisely-ecosystem/kaggle-landmark-recognition-2020-1st-place/tree/main/supervisely/visualization
 
 
