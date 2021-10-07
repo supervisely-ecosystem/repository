@@ -172,7 +172,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/ai-assisted-classification
 - https://github.com/supervisely-ecosystem/apply-nn-to-videos-project
 - https://github.com/supervisely-ecosystem/PaddleSeg
-- https://github.com/supervisely-ecosystem/ritm_interactive_segmentation_smarttool/tree/master/supervisely
+- https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
