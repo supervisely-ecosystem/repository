@@ -171,7 +171,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
 - https://github.com/supervisely-ecosystem/ai-assisted-classification
 - https://github.com/supervisely-ecosystem/apply-nn-to-videos-project
-- https://github.com/supervisely-ecosystem/PaddleSeg/tree/release/2.2/supervisely
+- https://github.com/supervisely-ecosystem/PaddleSeg/tree/master/supervisely
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
 
 ## Tests
