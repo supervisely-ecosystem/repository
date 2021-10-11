@@ -18,6 +18,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/seeds
 - https://github.com/supervisely-ecosystem/snacks-catalog
 - https://github.com/supervisely-ecosystem/grocery-store-shelves
+- https://github.com/supervisely-ecosystem/pascal_sample_gt
+- https://github.com/supervisely-ecosystem/pascal_sample_pred
 
 ## Convert project classes / objects / tags
 
