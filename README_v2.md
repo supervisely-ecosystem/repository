@@ -164,3 +164,6 @@ tasks with large number of classes (i.e. big catalogs)
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
+
+## NN performance analysis
+- https://github.com/supervisely-ecosystem/review_object_detection_metrics
