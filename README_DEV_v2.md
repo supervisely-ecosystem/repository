@@ -51,6 +51,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/create-trainset-for-smarttool
 - https://github.com/supervisely-ecosystem/tag-train-val-test
 - https://github.com/supervisely-ecosystem/imgaug-studio
+- https://github.com/supervisely-ecosystem/albumentations-studio
 
 ## YOLO v5 Apps Collection
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
