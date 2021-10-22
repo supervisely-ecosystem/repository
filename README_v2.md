@@ -165,6 +165,7 @@ tasks with large number of classes (i.e. big catalogs)
 
 ## Labeling automation with AI
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
+- https://github.com/supervisely-ecosystem/3d-track-interpolation
 
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
