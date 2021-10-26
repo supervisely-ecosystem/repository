@@ -227,6 +227,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 
 ## Metric Learning
 
-- https://github.com/supervisely-ecosystem/kaggle-landmark-recognition-2020-1st-place/tree/main/supervisely/visualization
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/serve
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/visualization
 
 
