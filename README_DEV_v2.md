@@ -78,6 +78,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/apply-det3d-to-project-dataset
 - https://github.com/supervisely-ecosystem/mmdetection3d/supervisely/serve
 - https://github.com/supervisely-ecosystem/3d-track-interpolation
+- https://github.com/supervisely-ecosystem/mot-3d
 
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
