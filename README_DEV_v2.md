@@ -227,6 +227,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 
 ## Metric Learning
 
+- https://github.com/supervisely-ecosystem/import-csv-catalog
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/visualization
 
