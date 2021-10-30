@@ -171,6 +171,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/render-video-from-images
 - https://github.com/supervisely-ecosystem/import-videos-from-team-files
 - https://github.com/supervisely-ecosystem/test-compare-gallery
+- https://github.com/supervisely-ecosystem/review-objects
 
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
