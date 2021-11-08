@@ -173,7 +173,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/convert-video-class-shape
 - https://github.com/supervisely-ecosystem/render-video-from-images
 - https://github.com/supervisely-ecosystem/import-videos-from-team-files
-- https://github.com/supervisely-ecosystem/test-compare-gallery
+- https://github.com/supervisely-ecosystem/thumbnails-preview
 - https://github.com/supervisely-ecosystem/review-objects
 
 ## NN integrations
