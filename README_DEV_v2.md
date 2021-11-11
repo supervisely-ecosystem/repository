@@ -81,6 +81,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/3d-track-interpolation
 - https://github.com/supervisely-ecosystem/mot-3d
 - https://github.com/supervisely-ecosystem/export-pointcloud-episode
+- https://github.com/supervisely-ecosystem/import-pointcloud-episode
 
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
