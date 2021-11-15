@@ -45,7 +45,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/tags-to-image-urls
 - https://github.com/supervisely-ecosystem/export-to-coco
 - https://github.com/supervisely-ecosystem/export-to-kitti-3d
-- 
+- https://github.com/supervisely-ecosystem/export-pointcloud-episode
+
 ## Transform images
 
 - https://github.com/supervisely-ecosystem/sliding-window/tree/master/split
@@ -84,6 +85,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-images-from-cloud-storage
 - https://github.com/supervisely-ecosystem/import-pascal-voc
 - https://github.com/supervisely-ecosystem/import-kitti-3d
+- https://github.com/supervisely-ecosystem/import-pointcloud-episode
  
 ## User Management
 
