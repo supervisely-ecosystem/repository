@@ -176,7 +176,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/import-videos-from-team-files
 - https://github.com/supervisely-ecosystem/thumbnails-preview
 - https://github.com/supervisely-ecosystem/review-objects
-- https://github.com/supervisely-ecosystem/detectron2
+- https://github.com/supervisely-ecosystem/detectron2/tree/alex_run_detectron/supervisely/instance_segmentation/serve
 
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
