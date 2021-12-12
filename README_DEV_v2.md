@@ -241,3 +241,8 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/labeling-tool
 
 
+## Action Recognition
+
+- https://github.com/supervisely-ecosystem/labeling-queues/tree/master
+- https://github.com/supervisely-ecosystem/action-recognition-labeling/tree/master
+- https://github.com/supervisely-ecosystem/action-recognition-stats/tree/master
