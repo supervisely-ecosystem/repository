@@ -176,7 +176,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/import-videos-from-team-files
 - https://github.com/supervisely-ecosystem/thumbnails-preview
 - https://github.com/supervisely-ecosystem/review-objects
-- https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
+
 
 ## NN integrations
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
@@ -222,6 +222,9 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
 
+## Instance segmentation
+- https://github.com/supervisely-ecosystem/detectron2/tree/master/supervisely/instance_segmentation/serve
+
 ## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/serve
@@ -246,3 +249,4 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/labeling-queues/tree/master
 - https://github.com/supervisely-ecosystem/action-recognition-labeling/tree/master
 - https://github.com/supervisely-ecosystem/action-recognition-stats/tree/master
+
