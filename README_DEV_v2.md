@@ -238,10 +238,11 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 
 - https://github.com/supervisely-ecosystem/import-csv-catalog
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/serve
-- https://github.com/supervisely-ecosystem/gl-metric-learning/blob/main/supervisely/calculator
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/calculator
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/visualization
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/similarity-calculator
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/labeling-tool
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/retail-collection
 
 
 ## Action Recognition
