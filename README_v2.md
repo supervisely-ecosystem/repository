@@ -181,3 +181,12 @@ tasks with large number of classes (i.e. big catalogs)
 
 ## NN performance analysis
 - https://github.com/supervisely-ecosystem/review_object_detection_metrics/tree/main/supervisely
+
+## Retail labeling with metric learning
+- https://github.com/supervisely-ecosystem/import-csv-catalog
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/serve
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/calculator
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/visualization
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/similarity-calculator
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/labeling-tool
+- https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/retail-collection
