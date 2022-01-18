@@ -155,6 +155,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/yolov5
 - https://github.com/supervisely-ecosystem/mmclassification
 - https://github.com/supervisely-ecosystem/unet
+- https://github.com/supervisely-ecosystem/instance-segmentation
 
 ## Applications for debug and development
 
@@ -178,6 +179,10 @@ tasks with large number of classes (i.e. big catalogs)
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
+
+## Instance segmentation
+- https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
+- https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
 
 ## NN performance analysis
 - https://github.com/supervisely-ecosystem/review_object_detection_metrics/tree/main/supervisely
