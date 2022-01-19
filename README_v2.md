@@ -199,7 +199,7 @@ tasks with large number of classes (i.e. big catalogs)
 
 
 ## Action Recognition
-- https://github.com/supervisely-ecosystem/labeling-queues/tree/master
-- https://github.com/supervisely-ecosystem/action-recognition-labeling/tree/master
-- https://github.com/supervisely-ecosystem/action-recognition-stats/tree/master
+- https://github.com/supervisely-ecosystem/labeling-queues
+- https://github.com/supervisely-ecosystem/action-recognition-labeling
+- https://github.com/supervisely-ecosystem/action-recognition-stats
 
