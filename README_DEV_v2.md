@@ -113,7 +113,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/while-true-app
 - https://github.com/supervisely-ecosystem/while-true-script
 - https://github.com/supervisely-ecosystem/aed-dummy-server
-- https://github.com/supervisely-dev-examples/random-string
+- https://github.com/supervisely-ecosystem/dev-names-generator
 
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
