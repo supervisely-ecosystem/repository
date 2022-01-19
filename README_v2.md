@@ -157,6 +157,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/mmclassification
 - https://github.com/supervisely-ecosystem/unet
 - https://github.com/supervisely-ecosystem/instance-segmentation
+- https://github.com/supervisely-ecosystem/collection-action-recognition
 
 ## Applications for debug and development
 
@@ -195,3 +196,10 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/similarity-calculator
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/labeling-tool
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/retail-collection
+
+
+## Action Recognition
+- https://github.com/supervisely-ecosystem/labeling-queues/tree/master
+- https://github.com/supervisely-ecosystem/action-recognition-labeling/tree/master
+- https://github.com/supervisely-ecosystem/action-recognition-stats/tree/master
+
