@@ -90,6 +90,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-pascal-voc
 - https://github.com/supervisely-ecosystem/import-kitti-3d
 - https://github.com/supervisely-ecosystem/import-pointcloud-episode
+- https://github.com/supervisely-ecosystem/import-images-from-csv
  
 ## User Management
 
