@@ -117,6 +117,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/aed-dummy-server
 - https://github.com/supervisely-ecosystem/dev-names-generator
 - https://github.com/supervisely-ecosystem/jupyter-datascience-notebook
+- https://github.com/supervisely-ecosystem/vscode
 
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
