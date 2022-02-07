@@ -172,7 +172,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/import-cityscapes
 - https://github.com/supervisely-ecosystem/export-only-labeled-items
 - https://github.com/supervisely-ecosystem/export-activity-as-csv
-- https://github.com/supervisely-ecosystem/split_video
+- https://github.com/supervisely-ecosystem/split-video
 - https://github.com/supervisely-ecosystem/import-ovis-format
 - https://github.com/supervisely-ecosystem/import-davis-format
 - https://github.com/supervisely-ecosystem/tags-to-image-urls
