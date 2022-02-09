@@ -65,7 +65,6 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/mmclassification
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/serve
-- https://github.com/supervisely-ecosystem/mmsegmentation
 - https://github.com/supervisely-ecosystem/mmsegmentation/tree/main/train
 - https://github.com/supervisely-ecosystem/mmsegmentation/tree/main/serve
 - https://github.com/supervisely-ecosystem/mmdetection/tree/master/supervisely/train/detection
