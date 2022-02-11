@@ -179,6 +179,7 @@ tasks with large number of classes (i.e. big catalogs)
 ## Labeling automation with AI
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
 - https://github.com/supervisely-ecosystem/3d-track-interpolation
+- https://github.com/supervisely-ecosystem/PaddleSeg/tree/master/supervisely
 
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
@@ -198,7 +199,6 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/similarity-calculator
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/labeling-tool
 - https://github.com/supervisely-ecosystem/gl-metric-learning/tree/main/supervisely/retail-collection
-
 
 ## Action Recognition
 - https://github.com/supervisely-ecosystem/labeling-queues
