@@ -140,9 +140,6 @@ tasks with large number of classes (i.e. big catalogs)
 
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/annotation-tool
 - https://github.com/supervisely-ecosystem/nn-image-labeling/tree/master/project-dataset
-- https://github.com/supervisely-ecosystem/ilastik-pixel-classification
-- https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
-- https://github.com/supervisely-ecosystem/trans-t/tree/main/supervisely/serve
 
 ## Alpha channel
 
@@ -179,7 +176,10 @@ tasks with large number of classes (i.e. big catalogs)
 ## Labeling automation with AI
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
 - https://github.com/supervisely-ecosystem/3d-track-interpolation
+- https://github.com/supervisely-ecosystem/ilastik-pixel-classification
+- https://github.com/supervisely-ecosystem/trans-t/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/PaddleSeg/tree/master/supervisely
+
 
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
