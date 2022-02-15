@@ -184,6 +184,8 @@ tasks with large number of classes (i.e. big catalogs)
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
+- https://github.com/supervisely-ecosystem/mmsegmentation/tree/main/train
+- https://github.com/supervisely-ecosystem/mmsegmentation/tree/main/serve
 
 ## Instance segmentation
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
