@@ -156,6 +156,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/ai-assisted-classification
 https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
 https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/serve
+- https://github.com/supervisely-ecosystem/thumbnail-image-tagging
 
 ## Synthetic data
 - https://github.com/supervisely-ecosystem/flying-objects
