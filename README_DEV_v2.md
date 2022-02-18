@@ -236,6 +236,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/instance-segmentation/tree/master
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
+- https://github.com/supervisely-ecosystem/ritm-training/tree/master/supervisely/train
 
 ## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
