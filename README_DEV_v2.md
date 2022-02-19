@@ -184,6 +184,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/thumbnails-preview
 - https://github.com/supervisely-ecosystem/review-objects
 - https://github.com/supervisely-ecosystem/sample-dataset
+- https://github.com/supervisely-ecosystem/import-strawberry-dataset
 
 
 ## NN integrations
