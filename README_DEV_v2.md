@@ -265,3 +265,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/action-recognition-labeling/tree/master
 - https://github.com/supervisely-ecosystem/action-recognition-stats/tree/master
 
+
+## Labeling Tools
+
+- https://github.com/supervisely-ecosystem/dev-smart-tool-batched
