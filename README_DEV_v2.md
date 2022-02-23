@@ -185,6 +185,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/review-objects
 - https://github.com/supervisely-ecosystem/sample-dataset
 - https://github.com/supervisely-ecosystem/import-strawberry-dataset
+- https://github.com/supervisely-ecosystem/import-Coffee-leaves-dataset
 
 
 ## NN integrations
