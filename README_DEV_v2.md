@@ -106,8 +106,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-coco
 - https://github.com/supervisely-ecosystem/export-volume-project
 
-## Applications for debug and development
 
+## Applications for debug and development
 - https://github.com/supervisely-ecosystem/hello-world-app
 - https://github.com/s-umar/hello-world-app/tree/master/supervisely/inf
 - https://github.com/supervisely-ecosystem/debug-progress-error-app
@@ -117,6 +117,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/dev-names-generator
 - https://github.com/supervisely-ecosystem/jupyter-datascience-notebook
 - https://github.com/supervisely-ecosystem/vscode
+- https://github.com/supervisely-ecosystem/dev-test-sys-path
+
 
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
