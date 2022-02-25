@@ -118,6 +118,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/jupyter-datascience-notebook
 - https://github.com/supervisely-ecosystem/vscode
 - https://github.com/supervisely-ecosystem/dev-test-sys-path
+- https://github.com/supervisely-ecosystem/dev-handle-exception
 
 
 ## System Applications (internal usage):
