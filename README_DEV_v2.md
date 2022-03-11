@@ -192,6 +192,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/import-Alstroemeria-flowers-dataset
 - https://github.com/supervisely-ecosystem/import-strawberry-segmentation-dataset
 - https://github.com/supervisely-ecosystem/import-MinneApple-dataset
+- https://github.com/supervisely-ecosystem/import-LaboroTomato-dataset
 
 
 ## NN integrations
