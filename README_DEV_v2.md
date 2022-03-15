@@ -196,6 +196,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/import-tomato-detection-dataset
 - https://github.com/supervisely-ecosystem/import-tomatOD-dataset
 - https://github.com/supervisely-ecosystem/import-small-tomato-dataset
+- https://github.com/supervisely-ecosystem/import-Sweet-Pepper-dataset
 
 
 ## NN integrations
