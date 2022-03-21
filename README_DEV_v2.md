@@ -98,6 +98,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-images-from-csv
 - https://github.com/supervisely-ecosystem/import-kitti-360/supervisely_app
 - https://github.com/supervisely-ecosystem/import-images-groups
+- https://github.com/supervisely-ecosystem/import-dicom-studies
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
