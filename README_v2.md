@@ -194,6 +194,10 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
 
+## Object detection
+- https://github.com/supervisely-ecosystem/mmdetection/tree/main/train
+- https://github.com/supervisely-ecosystem/mmdetection/tree/main/serve
+
 ## NN performance analysis
 - https://github.com/supervisely-ecosystem/review_object_detection_metrics/tree/main/supervisely
 
