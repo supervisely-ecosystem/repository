@@ -94,6 +94,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-kitti-360/supervisely_app
 - https://github.com/supervisely-ecosystem/import-dicom-studies
 - https://github.com/supervisely-ecosystem/import-images-groups
+- https://github.com/supervisely-ecosystem/import-images
  
 ## User Management
 
