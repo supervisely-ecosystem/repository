@@ -102,6 +102,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-dicom-studies
 - https://github.com/supervisely-ecosystem/import-images
 - https://github.com/supervisely-ecosystem/import-pointcloud-ply
+- https://github.com/supervisely-ecosystem/import-dicom-volumes
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
