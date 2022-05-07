@@ -253,6 +253,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 ## Semantic segmentation
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/unet/tree/master/supervisely/serve
+- https://github.com/supervisely-ecosystem/semantic-segmentation-metrics-dashboard
 
 ## Instance segmentation
 - https://github.com/supervisely-ecosystem/instance-segmentation/tree/master
