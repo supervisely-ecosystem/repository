@@ -98,6 +98,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-pointcloud-ply
 - https://github.com/supervisely-ecosystem/import-dicom-volumes
 - https://github.com/supervisely-ecosystem/import-volumes-with-anns
+- https://github.com/supervisely-ecosystem/import-videos-from-team-files
  
 ## User Management
 
