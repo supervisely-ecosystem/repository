@@ -49,6 +49,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-kitti-3d
 - https://github.com/supervisely-ecosystem/export-pointcloud-episode
 - https://github.com/supervisely-ecosystem/export-volume-project
+- https://github.com/supervisely-ecosystem/import-images-in-sly-format
 
 ## Transform images
 
