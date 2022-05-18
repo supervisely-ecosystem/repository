@@ -22,6 +22,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/pascal_sample_pred
 - https://github.com/supervisely-ecosystem/demo-volumes
 - https://github.com/supervisely-ecosystem/demo-volumes-annotated
+- https://github.com/supervisely-ecosystem/pascal-sample-gt-masks
+- https://github.com/supervisely-ecosystem/pascal-sample-pred-masks
+
 
 ## Convert project classes / objects / tags
 
