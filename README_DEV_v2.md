@@ -165,6 +165,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/video-objects-stats-for-every-class
 - https://github.com/supervisely-ecosystem/render-video-labels-to-mp4
 - https://github.com/supervisely-ecosystem/extract-frames-from-videos
+- https://github.com/supervisely-ecosystem/change-video-framerate
 
 ## Tagging / classification using big catalogs
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
