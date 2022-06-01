@@ -144,6 +144,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/extract-frames-from-videos
 - https://github.com/supervisely-ecosystem/render-video-from-images
 - https://github.com/supervisely-ecosystem/images-project-to-videos-project
+- https://github.com/supervisely-ecosystem/change-video-framerate
 
 ## Collection to Merge Projects
 
