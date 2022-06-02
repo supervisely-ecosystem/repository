@@ -154,6 +154,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-metadata
 - https://github.com/supervisely-ecosystem/import-metadata
 - https://github.com/supervisely-ecosystem/review-labels-side-by-side
+- https://github.com/supervisely-ecosystem/object-class-to-tag
 
 ## Diff Merge
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
