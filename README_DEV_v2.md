@@ -226,8 +226,8 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/apply-nn-to-videos-project
 - https://github.com/supervisely-ecosystem/PaddleSeg/tree/master/supervisely
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
-- https://github.com/supervisely-ecosystem/apply-classification-model-to-project/
-https://github.com/supervisely-ecosystem/apply-det-and-cls-models-to-project
+- https://github.com/supervisely-ecosystem/apply-classification-model-to-project
+- https://github.com/supervisely-ecosystem/apply-det-and-cls-models-to-project
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
