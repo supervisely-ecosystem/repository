@@ -36,6 +36,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/merge-classes
 - https://github.com/supervisely-ecosystem/unpack-key-value-tags
 - https://github.com/supervisely-ecosystem/convert-video-class-shape
+- https://github.com/supervisely-ecosystem/object-class-to-tag
 
 ## Data Management
 - https://github.com/supervisely-ecosystem/merge-datasets
