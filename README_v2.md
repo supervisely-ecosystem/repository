@@ -214,6 +214,9 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/train
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/serve
 
+## 3d pointclouds
+- https://github.com/supervisely-ecosystem/mmdetection_3d/tree/master/serve
+
 ## NN performance analysis
 - https://github.com/supervisely-ecosystem/review_object_detection_metrics/tree/main/supervisely
 
