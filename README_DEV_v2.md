@@ -307,3 +307,6 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 ## Labeling Tools
 
 - https://github.com/supervisely-ecosystem/dev-smart-tool-batched
+
+## Template apps
+- https://github.com/supervisely-ecosystem/template-serve-nn-detection
