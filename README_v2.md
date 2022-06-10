@@ -162,6 +162,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/apply-classification-model-to-project
 - https://github.com/supervisely-ecosystem/apply-det-and-cls-models-to-project
 - https://github.com/supervisely-ecosystem/apply-det3d-to-project-dataset
+- https://github.com/supervisely-ecosystem/apply-nn-to-videos-project
 
 ## Alpha channel
 
