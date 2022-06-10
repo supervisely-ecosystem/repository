@@ -251,6 +251,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/mmclassification
 - https://github.com/supervisely-ecosystem/collection-tracking
 - https://github.com/supervisely-ecosystem/collection-action-recognition
+- https://github.com/supervisely-ecosystem/image-labeling-tool-v1
 
 ## Kate
 - https://github.com/Kate-cat57/Divide_dataset
