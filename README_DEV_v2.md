@@ -41,6 +41,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-class-shape
 - https://github.com/supervisely-ecosystem/merge-classes
 - https://github.com/supervisely-ecosystem/extract-rois
+- https://github.com/supervisely-ecosystem/convert_ptc_to_ptc_episodes
 
 ## Statistical Reports for labeled images
 
