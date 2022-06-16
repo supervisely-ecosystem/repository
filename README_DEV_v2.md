@@ -311,6 +311,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/video-labeling-tool
 - https://github.com/supervisely-ecosystem/image-labeling-tool-v2
 - https://github.com/supervisely-ecosystem/image-labeling-tool-v1
+- https://github.com/supervisely-ecosystem/dicom-labeling-tool
 
 ## Template apps
 - https://github.com/supervisely-ecosystem/template-serve-nn-detection
