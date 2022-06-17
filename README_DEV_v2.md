@@ -308,12 +308,13 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 ## Labeling Tools
 
 - https://github.com/supervisely-ecosystem/dev-smart-tool-batched
+- https://github.com/supervisely-ecosystem/batched-smart-tool-for-videos
 - https://github.com/supervisely-ecosystem/video-labeling-tool
 - https://github.com/supervisely-ecosystem/image-labeling-tool-v2
 - https://github.com/supervisely-ecosystem/image-labeling-tool-v1
 - https://github.com/supervisely-ecosystem/dicom-labeling-tool
 - https://github.com/supervisely-ecosystem/pointcloud-labeling-tool
 - https://github.com/supervisely-ecosystem/pointcloud-episodes-labeling-tool
-- 
+
 ## Template apps
 - https://github.com/supervisely-ecosystem/template-serve-nn-detection
