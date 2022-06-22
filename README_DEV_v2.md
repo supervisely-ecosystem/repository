@@ -90,7 +90,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/3d-track-interpolation
 - https://github.com/supervisely-ecosystem/mot-3d
 - https://github.com/supervisely-ecosystem/export-pointcloud-episode
-- https://github.com/supervisely-ecosystem/import-pointcloud-episode
+- https://github.com/supervisely-ecosystem/
+
+-pointcloud-episode
 
 ## Import
 - https://github.com/supervisely-ecosystem/import-from-google-cloud-storage
@@ -115,6 +117,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-volumes-with-anns
 - https://github.com/supervisely-ecosystem/import-images-in-sly-format
 - https://github.com/supervisely-ecosystem/import-videos-in-sly-format
+- https://github.com/supervisely-ecosystem/import-videos
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
