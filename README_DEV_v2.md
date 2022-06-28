@@ -125,6 +125,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-coco
 - https://github.com/supervisely-ecosystem/export-volume-project
 - https://github.com/supervisely-ecosystem/export-videos-project-in-supervisely-format
+- https://github.com/supervisely-ecosystem/export-pointclouds-project-in-supervisely-format
 
 
 ## Applications for debug and development
