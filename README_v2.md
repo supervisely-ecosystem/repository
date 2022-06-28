@@ -197,6 +197,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/while-true-script
 - https://github.com/supervisely-ecosystem/template-serve-nn-detection
 - https://github.com/supervisely-ecosystem/serve-open-cv-tracker
+- https://github.com/supervisely-ecosystem/dev-serve-apps-v2
 
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
