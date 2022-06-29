@@ -141,6 +141,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/dev-test-sys-path
 - https://github.com/supervisely-ecosystem/dev-handle-exception
 - https://github.com/supervisely-ecosystem/dev-serve-apps-v2
+- https://github.com/supervisely-ecosystem/template-serve-nn-detection-v2
 
 
 ## System Applications (internal usage):
