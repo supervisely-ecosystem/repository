@@ -325,3 +325,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 
 ## Template apps
 - https://github.com/supervisely-ecosystem/template-serve-nn-detection
+
+## Interpolation
+- https://github.com/supervisely-ecosystem/volume-interpolation
+ 
