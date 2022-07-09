@@ -213,6 +213,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/ilastik-pixel-classification
 - https://github.com/supervisely-ecosystem/trans-t/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/PaddleSeg/tree/master/supervisely
+- https://github.com/supervisely-ecosystem/volume-interpolation
 
 
 ## Semantic segmentation
