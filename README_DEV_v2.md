@@ -268,6 +268,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 ## Data Management
 - https://github.com/supervisely-ecosystem/merge-datasets
 - https://github.com/supervisely-ecosystem/split-datasets
+- https://github.com/supervisely-ecosystem/filter-images
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/unpack-key-value-tags
