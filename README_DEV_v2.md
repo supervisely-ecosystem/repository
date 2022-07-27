@@ -116,6 +116,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-images-in-sly-format
 - https://github.com/supervisely-ecosystem/import-videos-in-sly-format
 - https://github.com/supervisely-ecosystem/import-videos-supervisely
+- https://github.com/supervisely-ecosystem/import-images-with-masks
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
