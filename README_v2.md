@@ -43,6 +43,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/merge-datasets
 - https://github.com/supervisely-ecosystem/thumbnails-preview
 - https://github.com/supervisely-ecosystem/objects-thumbnails-preview-by-class
+- https://github.com/supervisely-ecosystem/filter-images
 
 ## Export 
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
