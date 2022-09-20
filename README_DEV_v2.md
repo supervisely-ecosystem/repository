@@ -30,6 +30,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/demo-poinctloud-episodes
 - https://github.com/supervisely-ecosystem/demo-pointcloud-project
 - https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated
+- https://github.com/supervisely-ecosystem/demo-lyft-3d-dataset
+- https://github.com/supervisely-ecosystem/demo-lyft-3d-dataset-annotated
 
 ## Alpha channel
 
