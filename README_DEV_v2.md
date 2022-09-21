@@ -34,6 +34,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/demo-lyft-3d-dataset-annotated
 - https://github.com/supervisely-ecosystem/demo-kitti-3d-episodes
 - https://github.com/supervisely-ecosystem/demo-kitti-3d-episodes-annotated
+- https://github.com/supervisely-ecosystem/demo-video-pairs
 
 ## Alpha channel
 
