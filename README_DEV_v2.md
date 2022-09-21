@@ -187,6 +187,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/render-video-labels-to-mp4
 - https://github.com/supervisely-ecosystem/extract-frames-from-videos
 - https://github.com/supervisely-ecosystem/change-video-framerate
+- https://github.com/supervisely-ecosystem/mark-segments-on-synced-videos
 
 ## Tagging / classification using big catalogs
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
@@ -204,7 +205,7 @@ https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisel
 - https://github.com/supervisely-ecosystem/synthetic-retail-products
 - https://github.com/supervisely-ecosystem/synthetic-videos-for-tracking
 
-## Alex
+## Tests
 - https://github.com/supervisely-ecosystem/convert-supervisely-to-yolov5-format
 - https://github.com/supervisely-ecosystem/invite-users-to-team-from-csv
 - https://github.com/supervisely-ecosystem/import-mot-format
