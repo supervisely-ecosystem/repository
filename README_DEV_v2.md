@@ -92,8 +92,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/Open3D-ML/supervisely/train
 - https://github.com/supervisely-ecosystem/Open3D-ML/supervisely/serve
 - https://github.com/supervisely-ecosystem/apply-det3d-to-project-dataset
-- https://github.com/supervisely-ecosystem/mmdetection_3d/serve
-- https://github.com/supervisely-ecosystem/mmdetection_3d/train
+- https://github.com/supervisely-ecosystem/mmdetection_3d/tree/master/serve
+- https://github.com/supervisely-ecosystem/mmdetection_3d/tree/master/train
 - https://github.com/supervisely-ecosystem/3d-track-interpolation
 - https://github.com/supervisely-ecosystem/mot-3d
 - https://github.com/supervisely-ecosystem/export-pointcloud-episode
