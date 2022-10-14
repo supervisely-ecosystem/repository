@@ -154,6 +154,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/template-serve-nn-detection-v2
 - https://github.com/supervisely-ecosystem/dev-save-offline-session
 - https://github.com/supervisely-ecosystem/while-true-script-v2
+- https://github.com/supervisely-ecosystem/integrate-custom-instance-segmentation-model
 
 
 ## System Applications (internal usage):
