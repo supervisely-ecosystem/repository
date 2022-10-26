@@ -159,6 +159,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
+- https://github.com/supervisely-ecosystem/sys-clone-project
 
 ## Max
 - https://github.com/supervisely-ecosystem/app-template-headless
