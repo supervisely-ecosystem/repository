@@ -210,6 +210,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/template-serve-nn-detection
 - https://github.com/supervisely-ecosystem/serve-open-cv-tracker
 - https://github.com/supervisely-ecosystem/jupyter-datascience-notebook
+- https://github.com/supervisely-ecosystem/insert-youtube-logo
 
 
 ## System Applications (internal usage):
