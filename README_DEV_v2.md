@@ -140,6 +140,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-videos-project-in-supervisely-format
 - https://github.com/supervisely-ecosystem/export-pointclouds-project-in-supervisely-format
 - https://github.com/supervisely-ecosystem/export-project-to-cloud-storage
+- https://github.com/supervisely-ecosystem/export-to-dota
 
 
 ## Applications for debug and development
