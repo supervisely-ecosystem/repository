@@ -163,6 +163,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/integrate-custom-instance-segmentation-model
 - https://github.com/supervisely-ecosystem/insert-youtube-logo
 - https://github.com/supervisely-ecosystem/dev-app-stop-signals
+- https://github.com/supervisely-ecosystem/template-import-from-folder
 
 
 ## System Applications (internal usage):
