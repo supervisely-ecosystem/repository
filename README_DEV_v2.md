@@ -164,6 +164,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/insert-youtube-logo
 - https://github.com/supervisely-ecosystem/dev-app-stop-signals
 - https://github.com/supervisely-ecosystem/template-import-from-folder
+- https://github.com/supervisely-ecosystem/template-import-from-file
 
 
 ## System Applications (internal usage):
