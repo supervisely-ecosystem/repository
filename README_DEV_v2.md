@@ -200,6 +200,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/extract-frames-from-videos
 - https://github.com/supervisely-ecosystem/change-video-framerate
 - https://github.com/supervisely-ecosystem/mark-segments-on-synced-videos
+- https://github.com/supervisely-ecosystem/take-fragment-from-video
 
 ## Tagging / classification using big catalogs
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
