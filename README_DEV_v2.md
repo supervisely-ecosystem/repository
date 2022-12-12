@@ -75,6 +75,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-yolov5-to-supervisely-format
 - https://github.com/supervisely-ecosystem/yolov5/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/yolov5/tree/master/supervisely/serve
+- https://github.com/supervisely-ecosystem/yolov5/tree/master/sly_integration/serve
 - https://github.com/supervisely-ecosystem/yolov5/tree/master/supervisely/export_weights
 
 ## OpenMMLab
