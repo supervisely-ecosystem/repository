@@ -5,6 +5,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Ideas
 - https://github.com/supervisely-ecosystem/sample-images
 - https://github.com/supervisely-ecosystem/batch-image-tagging
+- https://github.com/supervisely-ecosystem/batch-object-tagging
 
 ## Sample Projects:
 
