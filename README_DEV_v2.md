@@ -68,6 +68,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/objects-thumbnails-preview-by-class
 - https://github.com/supervisely-ecosystem/labels-spatial-distribution
 - https://github.com/supervisely-ecosystem/interactive-objects-distribution
+- https://github.com/supervisely-ecosystem/compare-models-predictions-on-demo-video
 
 ## Create Training Data
 
