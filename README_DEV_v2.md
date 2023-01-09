@@ -208,6 +208,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/mark-segments-on-synced-videos
 - https://github.com/supervisely-ecosystem/take-fragment-from-video
 - https://github.com/supervisely-ecosystem/split-dataset
+- https://github.com/supervisely-ecosystem/mark-segments-on-synced-videos-2
 
 ## Tagging / classification using big catalogs
 - https://github.com/supervisely-ecosystem/create-json-with-reference-items
