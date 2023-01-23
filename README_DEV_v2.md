@@ -288,6 +288,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/resize-images
 - https://github.com/supervisely-ecosystem/images-project-to-videos-project
 - https://github.com/supervisely-ecosystem/crop-objects-on-images
+- https://github.com/supervisely-ecosystem/perspective-transform-using-qr-code
 
 ## Collections
 - https://github.com/supervisely-ecosystem/yolov5
