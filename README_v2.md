@@ -74,6 +74,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-pointclouds-project-in-supervisely-format
 - https://github.com/supervisely-ecosystem/export-project-to-cloud-storage
 - https://github.com/supervisely-ecosystem/export-to-dota
+- https://github.com/supervisely-ecosystem/export-volume-project-to-cloud-storage
 
 ## Transform images
 
