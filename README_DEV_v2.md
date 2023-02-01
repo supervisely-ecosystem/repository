@@ -279,6 +279,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
 - https://github.com/supervisely-ecosystem/apply-classification-model-to-project
 - https://github.com/supervisely-ecosystem/apply-det-and-cls-models-to-project
+- https://github.com/supervisely-ecosystem/object-detection-training-template
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
