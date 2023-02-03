@@ -186,6 +186,9 @@ tasks with large number of classes (i.e. big catalogs)
 
 - https://github.com/supervisely-ecosystem/convert_ptc_to_ptc_episodes
 
+## DICOM
+- https://github.com/supervisely-ecosystem/slice-volumes
+
 ## Collection to Merge Projects
 
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
