@@ -236,6 +236,7 @@ tasks with large number of classes (i.e. big catalogs)
 ## System Applications (internal usage):
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
 - https://github.com/supervisely-ecosystem/sys-clone-project
+- https://github.com/supervisely-ecosystem/cleaner
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/review-labels-side-by-side
