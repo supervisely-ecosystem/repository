@@ -96,6 +96,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/train
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/serve
 - https://github.com/supervisely-ecosystem/integrate-pose-estim-model
+- https://github.com/supervisely-ecosystem/vitpose/tree/master/serve
 
 
 ## Pascal VOC format
