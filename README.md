@@ -28,6 +28,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Data Management
 - https://github.com/supervisely-ecosystem/merge-datasets
+- https://github.com/supervisely-ecosystem/slice-volumes
 
 ## Export 
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
