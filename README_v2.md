@@ -202,6 +202,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/apply-det-and-cls-models-to-project
 - https://github.com/supervisely-ecosystem/apply-det3d-to-project-dataset
 - https://github.com/supervisely-ecosystem/apply-nn-to-videos-project
+- https://github.com/supervisely-ecosystem/apply-det-and-pose-estim-models-to-project
 
 ## Alpha channel
 
@@ -266,6 +267,9 @@ tasks with large number of classes (i.e. big catalogs)
 ## Object detection
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/train
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/serve
+
+## Pose estimation
+- https://github.com/supervisely-ecosystem/vitpose/tree/master/serve
 
 ## 3d pointclouds
 - https://github.com/supervisely-ecosystem/mmdetection_3d/tree/master/serve
