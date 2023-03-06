@@ -285,6 +285,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/apply-det-and-cls-models-to-project
 - https://github.com/supervisely-ecosystem/apply-det-and-pose-estim-models-to-project
 - https://github.com/supervisely-ecosystem/object-detection-training-template
+- https://github.com/supervisely-ecosystem/apply-object-segmentor-to-images-project
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
@@ -334,6 +335,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
 - https://github.com/supervisely-ecosystem/ritm-training/tree/master/supervisely/train
+
+## Salient Object Segmentation
+- https://github.com/supervisely-ecosystem/serve-isnet
 
 ## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
