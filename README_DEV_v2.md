@@ -340,6 +340,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/serve-isnet
 - https://github.com/supervisely-ecosystem/serve-selfreformer
 
+## Multimodal Neural Networks
+- https://github.com/supervisely-ecosystem/serve-owl-vit
+
 ## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/serve
