@@ -338,6 +338,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Salient Object Segmentation
 - https://github.com/supervisely-ecosystem/serve-isnet
+- https://github.com/supervisely-ecosystem/serve-selfreformer
 
 ## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
