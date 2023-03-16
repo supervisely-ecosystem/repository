@@ -339,6 +339,7 @@ Those github repositories will be automatically scanned for new updates and show
 ## Salient Object Segmentation
 - https://github.com/supervisely-ecosystem/serve-isnet
 - https://github.com/supervisely-ecosystem/serve-selfreformer
+- https://github.com/supervisely-ecosystem/serve-transfiner
 
 ## Multimodal Neural Networks
 - https://github.com/supervisely-ecosystem/serve-owl-vit
