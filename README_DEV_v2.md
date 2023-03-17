@@ -146,6 +146,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-youtube-videos
 - https://github.com/supervisely-ecosystem/import-coco-keypoints
 - https://github.com/supervisely-ecosystem/flickr-downloader
+- https://github.com/supervisely-ecosystem/youtube-downloader
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
