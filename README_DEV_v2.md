@@ -337,11 +337,12 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
 - https://github.com/supervisely-ecosystem/ritm-training/tree/master/supervisely/train
+- https://github.com/supervisely-ecosystem/serve-transfiner
 
 ## Salient Object Segmentation
 - https://github.com/supervisely-ecosystem/serve-isnet
 - https://github.com/supervisely-ecosystem/serve-selfreformer
-- https://github.com/supervisely-ecosystem/serve-transfiner
+- https://github.com/supervisely-ecosystem/serve-InSPyReNet
 
 ## Multimodal Neural Networks
 - https://github.com/supervisely-ecosystem/serve-owl-vit
