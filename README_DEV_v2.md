@@ -207,6 +207,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/object-class-to-tag
 - https://github.com/supervisely-ecosystem/tag-to-object-class
 - https://github.com/supervisely-ecosystem/tag-by-dataset-name
+- https://github.com/supervisely-ecosystem/create-project-from-template
 
 ## Diff Merge
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
