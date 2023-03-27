@@ -33,6 +33,8 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/demo-video-pairs
 - https://github.com/supervisely-ecosystem/supervisely-tomatoes-research
 
+## Neural Networks
+- https://github.com/supervisely-ecosystem/tensorboard-logs-viewer
 
 ## Convert project classes / objects / tags
 
