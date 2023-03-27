@@ -35,6 +35,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Neural Networks
 - https://github.com/supervisely-ecosystem/tensorboard-logs-viewer
+- https://github.com/supervisely-ecosystem/training-tensorboard-template
 
 ## Convert project classes / objects / tags
 
