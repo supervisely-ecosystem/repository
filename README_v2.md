@@ -143,6 +143,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-youtube-videos
 - https://github.com/supervisely-ecosystem/import-volumes-from-cloud-storage
 - https://github.com/supervisely-ecosystem/import-coco-keypoints
+- https://github.com/supervisely-ecosystem/flickr-downloader
  
 ## User Management
 
