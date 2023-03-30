@@ -346,6 +346,9 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/serve-selfreformer
 - https://github.com/supervisely-ecosystem/serve-InSPyReNet
 
+## Interactive Segmentation
+- https://github.com/supervisely-ecosystem/serve-clickseg
+
 ## Multimodal Neural Networks
 - https://github.com/supervisely-ecosystem/serve-owl-vit
 
