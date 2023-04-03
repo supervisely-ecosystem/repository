@@ -144,7 +144,10 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-volumes-from-cloud-storage
 - https://github.com/supervisely-ecosystem/import-coco-keypoints
 - https://github.com/supervisely-ecosystem/flickr-downloader
- 
+- https://github.com/supervisely-ecosystem/youtube-downloader
+- https://github.com/supervisely-ecosystem/pexels-downloader
+
+
 ## User Management
 
 - https://github.com/supervisely-ecosystem/create-users-from-csv
@@ -210,6 +213,11 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/apply-det3d-to-project-dataset
 - https://github.com/supervisely-ecosystem/apply-nn-to-videos-project
 - https://github.com/supervisely-ecosystem/apply-det-and-pose-estim-models-to-project
+- https://github.com/supervisely-ecosystem/serve-selfreformer
+- https://github.com/supervisely-ecosystem/serve-isnet
+- https://github.com/supervisely-ecosystem/serve-transfiner
+- https://github.com/supervisely-ecosystem/serve-InSPyReNet
+- https://github.com/supervisely-ecosystem/apply-object-segmentor-to-images-project
 
 ## Alpha channel
 
