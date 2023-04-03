@@ -253,6 +253,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/sys-add-project-from-ecosystem
 - https://github.com/supervisely-ecosystem/sys-clone-project
 - https://github.com/supervisely-ecosystem/cleaner
+- https://github.com/supervisely-ecosystem/archive-old-projects-on-community-edition
 
 
 ## Labeling
