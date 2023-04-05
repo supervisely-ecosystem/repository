@@ -57,6 +57,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/convert-to-semantic-segmentation
 - https://github.com/supervisely-ecosystem/object-tags-redactor
 - https://github.com/supervisely-ecosystem/bind-nested-objects-into-groups
+- https://github.com/supervisely-ecosystem/merge-tags
 
 ## Statistical Reports for labeled images
 
