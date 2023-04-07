@@ -352,6 +352,9 @@ Those github repositories will be automatically scanned for new updates and show
 ## Interactive Segmentation
 - https://github.com/supervisely-ecosystem/serve-clickseg
 
+## Promptable Segmentation
+- https://github.com/supervisely-ecosystem/serve-segment-anything-model
+
 ## Multimodal Neural Networks
 - https://github.com/supervisely-ecosystem/serve-owl-vit
 
