@@ -219,6 +219,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/serve-InSPyReNet
 - https://github.com/supervisely-ecosystem/apply-object-segmentor-to-images-project
 - https://github.com/supervisely-ecosystem/serve-owl-vit
+- https://github.com/supervisely-ecosystem/apply-owl-vit-to-images-project
 
 ## Alpha channel
 
