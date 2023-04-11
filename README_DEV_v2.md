@@ -358,6 +358,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Multimodal Neural Networks
 - https://github.com/supervisely-ecosystem/serve-owl-vit
+- https://github.com/supervisely-ecosystem/prompt-based-image-filtering
 
 ## FairMOT tracking bundle
 - https://github.com/supervisely-ecosystem/FairMOT/tree/master/supervisely/train
