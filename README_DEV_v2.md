@@ -294,6 +294,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/apply-object-segmentor-to-images-project
 - https://github.com/supervisely-ecosystem/apply-owl-vit-to-images-project
 - https://github.com/supervisely-ecosystem/stable-diffusion-app
+- https://github.com/supervisely-ecosystem/apply-viame
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
