@@ -272,7 +272,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/PaddleSeg/tree/master/supervisely
 - https://github.com/supervisely-ecosystem/volume-interpolation
 - https://github.com/supervisely-ecosystem/serve-clickseg
-- https://github.com/supervisely-ecosystem/interpolation_tracker_v1
+- https://github.com/supervisely-ecosystem/interpolation-tracker-v1
 
 
 ## Semantic segmentation
