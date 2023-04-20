@@ -59,6 +59,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/objects-thumbnails-preview-by-class
 - https://github.com/supervisely-ecosystem/filter-images
 - https://github.com/supervisely-ecosystem/split-dataset
+- https://github.com/supervisely-ecosystem/prompt-based-image-filtering
 
 ## Export 
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
@@ -223,7 +224,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/serve-owl-vit
 - https://github.com/supervisely-ecosystem/apply-owl-vit-to-images-project
 - https://github.com/supervisely-ecosystem/apply-viame
-
+- https://github.com/supervisely-ecosystem/stable-diffusion-app
 ## Alpha channel
 
 - https://github.com/supervisely-ecosystem/images-with-alpha-channel
