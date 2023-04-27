@@ -148,6 +148,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/flickr-downloader
 - https://github.com/supervisely-ecosystem/youtube-downloader
 - https://github.com/supervisely-ecosystem/pexels-downloader
+- https://github.com/supervisely-ecosystem/import-unsplash-lite-dataset
 
 ## Export
 - https://github.com/supervisely-ecosystem/export-as-masks
