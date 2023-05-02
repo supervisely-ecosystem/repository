@@ -163,6 +163,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-dota
 - https://github.com/supervisely-ecosystem/export-volume-project-to-cloud-storage
 - https://github.com/supervisely-ecosystem/dev-assets-transfer
+- https://github.com/supervisely-ecosystem/export-to-yolov8
 
 
 ## Applications for debug and development
