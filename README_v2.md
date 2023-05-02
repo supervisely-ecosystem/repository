@@ -60,6 +60,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/filter-images
 - https://github.com/supervisely-ecosystem/split-dataset
 - https://github.com/supervisely-ecosystem/prompt-based-image-filtering
+- https://github.com/supervisely-ecosystem/dev-assets-transfer
 
 ## Export 
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
@@ -81,6 +82,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-project-to-cloud-storage
 - https://github.com/supervisely-ecosystem/export-to-dota
 - https://github.com/supervisely-ecosystem/export-volume-project-to-cloud-storage
+- https://github.com/supervisely-ecosystem/export-to-yolov8
 
 ## Transform images
 
