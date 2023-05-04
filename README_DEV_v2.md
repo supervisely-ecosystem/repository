@@ -372,6 +372,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/trans-t/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/serve-open-cv-tracker
 - https://github.com/supervisely-ecosystem/pips/tree/main/supervisely/serve
+- https://github.com/supervisely-ecosystem/serve-tapnet/tree/master/tapnet/supervisely/serve
 
 ## Metric Learning
 
