@@ -75,6 +75,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/compare-models-predictions-on-demo-video
 - https://github.com/supervisely-ecosystem/embeddings-app
 - https://github.com/supervisely-ecosystem/classification-metrics
+- https://github.com/supervisely-ecosystem/instance-segmentation-metrics
 
 ## Create Training Data
 
