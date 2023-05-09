@@ -83,6 +83,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/export-to-dota
 - https://github.com/supervisely-ecosystem/export-volume-project-to-cloud-storage
 - https://github.com/supervisely-ecosystem/export-to-yolov8
+- https://github.com/supervisely-ecosystem/export-to-coco-mask
 
 ## Transform images
 
@@ -227,6 +228,8 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/apply-owl-vit-to-images-project
 - https://github.com/supervisely-ecosystem/apply-viame
 - https://github.com/supervisely-ecosystem/stable-diffusion-app
+
+
 ## Alpha channel
 
 - https://github.com/supervisely-ecosystem/images-with-alpha-channel
