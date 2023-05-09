@@ -291,6 +291,7 @@ tasks with large number of classes (i.e. big catalogs)
 ## Instance segmentation
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/train
 - https://github.com/supervisely-ecosystem/detectron2/tree/main/supervisely/instance_segmentation/serve
+- https://github.com/supervisely-ecosystem/instance-segmentation-metrics
 
 ## Object detection
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/train
