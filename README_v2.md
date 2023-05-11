@@ -282,6 +282,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/interpolation-tracker-v1
 - https://github.com/supervisely-ecosystem/serve-segment-anything-model
 - https://github.com/supervisely-ecosystem/pips/tree/main/supervisely/serve
+- https://github.com/supervisely-ecosystem/serve-tapnet/tree/master/tapnet/supervisely/serve
 
 
 ## Semantic segmentation
