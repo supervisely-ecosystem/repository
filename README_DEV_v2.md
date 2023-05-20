@@ -281,6 +281,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/import-robusta-coffee-leaf-dataset
 - https://github.com/supervisely-ecosystem/import-cwfid-dataset
 - https://github.com/supervisely-ecosystem/import-weed-dataset
+- https://github.com/supervisely-ecosystem/update_image_properties
 
 
 ## NN integrations
