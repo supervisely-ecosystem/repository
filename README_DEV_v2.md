@@ -166,6 +166,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/dev-assets-transfer
 - https://github.com/supervisely-ecosystem/export-to-yolov8
 - https://github.com/supervisely-ecosystem/export-to-coco-mask
+- https://github.com/supervisely-ecosystem/download-images
 
 
 ## Applications for debug and development
