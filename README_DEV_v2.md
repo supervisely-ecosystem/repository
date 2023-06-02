@@ -206,6 +206,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## User Management
 - https://github.com/supervisely-ecosystem/create-users-from-csv
+- https://github.com/supervisely-ecosystem/exams
 
 ## Image Tags and metadata
 - https://github.com/supervisely-ecosystem/add-properties-to-image-from-csv
