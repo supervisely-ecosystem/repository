@@ -338,6 +338,7 @@ Those github repositories will be automatically scanned for new updates and show
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/unpack-key-value-tags
+- https://github.com/supervisely-ecosystem/export-items-after-labeling-job-review
 
 ## Ilastik
 - https://github.com/supervisely-ecosystem/ilastik-pixel-classification
