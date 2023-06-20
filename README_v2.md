@@ -273,6 +273,7 @@ tasks with large number of classes (i.e. big catalogs)
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/review-labels-side-by-side
+- https://github.com/supervisely-ecosystem/export-items-after-labeling-job-review
 
 ## Labeling automation with AI
 - https://github.com/supervisely-ecosystem/ritm-interactive-segmentation/tree/master/supervisely
