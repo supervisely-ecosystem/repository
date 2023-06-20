@@ -108,6 +108,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/labels-spatial-distribution
 - https://github.com/supervisely-ecosystem/interactive-objects-distribution
 - https://github.com/supervisely-ecosystem/embeddings-app
+- https://github.com/supervisely-ecosystem/consensus
 
 ## Create Training Data
 
