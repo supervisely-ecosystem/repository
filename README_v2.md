@@ -233,7 +233,6 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/apply-owl-vit-to-images-project
 - https://github.com/supervisely-ecosystem/apply-viame
 - https://github.com/supervisely-ecosystem/stable-diffusion-app
-- https://github.com/supervisely-ecosystem/mixformer/tree/main/serve/serve
 
 
 ## Alpha channel
@@ -290,6 +289,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/serve-segment-anything-model
 - https://github.com/supervisely-ecosystem/pips/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/serve-tapnet/tree/master/tapnet/supervisely/serve
+- https://github.com/supervisely-ecosystem/mixformer/tree/main/serve/serve
 
 
 ## Semantic segmentation
