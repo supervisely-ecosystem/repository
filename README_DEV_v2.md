@@ -307,6 +307,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/training-tensorboard-template
 - https://github.com/supervisely-ecosystem/yolov8/tree/master/train
 - https://github.com/supervisely-ecosystem/yolov8/tree/master/serve
+- https://github.com/supervisely-ecosystem/MixFormer/tree/main/serve/serve
 
 ## Tests
 - https://github.com/supervisely-ecosystem/log-level-test
