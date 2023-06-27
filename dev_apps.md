@@ -61,3 +61,5 @@
 - https://github.com/supervisely-ecosystem/labeling-queues/tree/master
 - https://github.com/supervisely-ecosystem/action-recognition-labeling/tree/master
 - https://github.com/supervisely-ecosystem/action-recognition-stats/tree/master
+- https://github.com/supervisely-ecosystem/consensus
+- https://github.com/supervisely-ecosystem/MixFormer/tree/main/serve/serve
