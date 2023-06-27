@@ -343,3 +343,6 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/pointcloud-episodes-labeling-tool
 - https://github.com/supervisely-ecosystem/mark-segments-on-synced-videos
 - https://github.com/supervisely-ecosystem/mark-segments-on-synced-videos-2
+
+- https://github.com/supervisely-ecosystem/yolov8/tree/master/serve
+- https://github.com/supervisely-ecosystem/yolov8/tree/master/train
