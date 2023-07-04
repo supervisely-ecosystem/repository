@@ -307,6 +307,8 @@ tasks with large number of classes (i.e. big catalogs)
 ## Object detection
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/train
 - https://github.com/supervisely-ecosystem/mmdetection/tree/main/serve
+- https://github.com/supervisely-ecosystem/train-mmdetection-v3
+- https://github.com/supervisely-ecosystem/serve-mmdetection-v3
 
 ## Pose estimation
 - https://github.com/supervisely-ecosystem/vitpose/tree/master/serve
