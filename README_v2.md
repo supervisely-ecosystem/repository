@@ -155,7 +155,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/youtube-downloader
 - https://github.com/supervisely-ecosystem/pexels-downloader
 - https://github.com/supervisely-ecosystem/import-images-in-sly-format-from-cloud-storage
-- https://ecosystem.supervisely.com/apps/import-pdf-as-images
+- https://github.com/supervisely-ecosystem/import-pdf-as-images
 
 
 ## User Management
@@ -292,7 +292,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/pips/tree/main/supervisely/serve
 - https://github.com/supervisely-ecosystem/serve-tapnet/tree/master/tapnet/supervisely/serve
 - https://github.com/supervisely-ecosystem/mixformer/tree/main/serve/serve
-- https://ecosystem.supervisely.com/apps/xmem/supervisely_integration/serve
+- https://github.com/supervisely-ecosystem/xmem/tree/main/supervisely_integration/serve
 
 
 ## Semantic segmentation
