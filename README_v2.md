@@ -294,6 +294,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/serve-tapnet/tree/master/tapnet/supervisely/serve
 - https://github.com/supervisely-ecosystem/mixformer/tree/main/serve/serve
 - https://github.com/supervisely-ecosystem/xmem/tree/main/supervisely_integration/serve
+- https://github.com/supervisely-ecosystem/serve-segment-anything-hq/tree/main/supervisely_integration/serve
 
 
 ## Semantic segmentation
