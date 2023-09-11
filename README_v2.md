@@ -216,6 +216,7 @@ tasks with large number of classes (i.e. big catalogs)
 
 - https://github.com/supervisely-ecosystem/diff-merge-project-meta
 - https://github.com/supervisely-ecosystem/diff-merge-images-projects
+- https://github.com/supervisely-ecosystem/merge-images-projects
 
 ## NN inference integration
 
