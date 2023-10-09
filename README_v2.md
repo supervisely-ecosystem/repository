@@ -192,6 +192,7 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/train
 - https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/serve
 - https://github.com/supervisely-ecosystem/classification-metrics
+- https://github.com/supervisely-ecosystem/object-classification-metrics
 
 ## Videos project
 
