@@ -62,6 +62,7 @@ Those github repositories will be automatically scanned for new updates and show
 - https://github.com/supervisely-ecosystem/split-dataset
 - https://github.com/supervisely-ecosystem/prompt-based-image-filtering
 - https://github.com/supervisely-ecosystem/dev-assets-transfer
+- https://github.com/supervisely-ecosystem/obsolete-projects-cleaner
 
 ## Export 
 - https://github.com/supervisely-ecosystem/export-to-cityscapes
@@ -276,7 +277,6 @@ tasks with large number of classes (i.e. big catalogs)
 - https://github.com/supervisely-ecosystem/sys-clone-project
 - https://github.com/supervisely-ecosystem/cleaner
 - https://github.com/supervisely-ecosystem/archive-old-projects-on-community-edition
-- https://github.com/supervisely-ecosystem/obsolete-projects-cleaner
 
 ## Labeling
 - https://github.com/supervisely-ecosystem/review-labels-side-by-side
